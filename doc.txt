@@ -1,0 +1,6 @@
+log-bin=mysql-bin
+server_id=1
+
+ajouter ces 2 lignes dans my.ini
+ligne 1 -> active les logs
+ligne 2 -> pour id de server
